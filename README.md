@@ -95,3 +95,7 @@ my-dl-project/
 ├── requirements.txt        # Your pip dependencies
 └── README.md               # Documentation
 ```
+
+## Use of Artificial Intelligence (AI) to Generate Content
+
+This supplemental course resource contains content created with the help of AI tools. AI-generated content has been thoroughly vetted by course instructor. Revisions have been made to ensure accuracy and clarity.
